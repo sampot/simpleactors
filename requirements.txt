@@ -1,4 +1,10 @@
 base58==0.2.1
+colorama==0.3.3
 gevent==1.0.2
 greenlet==0.4.7
 msgpack-python==0.4.6
+py==1.4.30
+PyDispatcher==2.0.5
+pytest==2.8.1
+six==1.9.0
+wheel==0.24.0
